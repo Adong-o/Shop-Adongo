@@ -1,0 +1,120 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    
+  }
+  
+  .search-container input[type="text"] {
+    width: 500px;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    height: 70px;
+    border-radius: 30px;
+  }
+  
+  .search-container button[type="button"] {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    margin-left: 10px;
+    cursor: pointer;
+    height: 50px;
+  }
+  
+  .search-highlight {
+    background-color: yellow;
+  }
+  button {
+    background-color: #000000;
+    color: #fff;
+    font-weight: bold;
+    width: 130px;
+    height: 40px;
+    border-radius: 12px;
+  }
+  button:hover {
+    background-color: #fff;
+    color: #000000;
+    font-weight: bolder;
+    border-radius: 13px;
+    transition: 1s;
+  }
+  /*hover for all images*/
+  .card1:hover img {
+    content: url(./images/hover1.jpg);
+    transition: 20s;
+  }
+  .card2:hover img {
+    content: url(./images/hover2.jpg);
+    transition: 2s;
+  }
+  .card3:hover img {
+    content: url(./images/hover3.jpg);
+    transition: 2s;
+  }
+  .card4:hover img {
+    content: url(./images/hover4.jpg);
+  }
+  .card5:hover img {
+    content: url(./images/hover5.jpg);
+  }
+  .card6:hover img {
+    content: url(./images/hover6.jpg);
+  }
+  .card7:hover img {
+    content: url(./images/hover7.jpg);
+  }
+  .card8:hover img {
+    content: url(./images/hover8.jpg);
+  }
+  .card9:hover img {
+    content: url(./images/hover9.jpg);
+  }
+  .card10:hover img {
+    content: url(./images/hover10.jpg);
+  }
+  .card11:hover img {
+    content: url(./images/hover11.jpg);
+  }
+  .card12:hover img {
+    content: url(./images/hover12.jpg);
+  }
+  .card13:hover img {
+    content: url(./images/hover13.jpg);
+  }
+  .card14:hover img {
+    content: url(./images/hover14.jpg);
+  }
+  .card15:hover img {
+    content: url(./images/hover15.png);
+  }
+  .card16:hover img {
+    content: url(./images/hover16.jpg);
+  }
+  .card17:hover img {
+    content: url(./images/hover17.jpg);
+  }
+  .card18:hover img {
+    content: url(./images/hover18.jpg);
+  }
+                  
+          
+  
+  
+  
+
+  
